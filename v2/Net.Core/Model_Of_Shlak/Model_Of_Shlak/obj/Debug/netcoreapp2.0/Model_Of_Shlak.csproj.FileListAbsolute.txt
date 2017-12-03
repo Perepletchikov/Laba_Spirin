@@ -1,0 +1,44 @@
+C:\Users\Sergey.Pukhov\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.deps.json
+C:\Users\Sergey.Pukhov\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.runtimeconfig.json
+C:\Users\Sergey.Pukhov\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.runtimeconfig.dev.json
+C:\Users\Sergey.Pukhov\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.dll
+C:\Users\Sergey.Pukhov\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.pdb
+C:\Users\Sergey.Pukhov\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.csprojResolveAssemblyReference.cache
+C:\Users\Sergey.Pukhov\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.csproj.CoreCompileInputs.cache
+C:\Users\Sergey.Pukhov\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.AssemblyInfoInputs.cache
+C:\Users\Sergey.Pukhov\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.AssemblyInfo.cs
+C:\Users\Sergey.Pukhov\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.dll
+C:\Users\Sergey.Pukhov\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.pdb
+C:\Users\1\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.deps.json
+C:\Users\1\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.runtimeconfig.json
+C:\Users\1\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.runtimeconfig.dev.json
+C:\Users\1\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.dll
+C:\Users\1\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.pdb
+C:\Users\1\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.AssemblyInfo.cs
+C:\Users\1\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.dll
+C:\Users\1\Desktop\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.pdb
+C:\Users\1\Desktop\4 курс\Моделирование процессов АСУТП (Спирин Н.А.)\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.deps.json
+C:\Users\1\Desktop\4 курс\Моделирование процессов АСУТП (Спирин Н.А.)\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.runtimeconfig.json
+C:\Users\1\Desktop\4 курс\Моделирование процессов АСУТП (Спирин Н.А.)\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.runtimeconfig.dev.json
+C:\Users\1\Desktop\4 курс\Моделирование процессов АСУТП (Спирин Н.А.)\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.dll
+C:\Users\1\Desktop\4 курс\Моделирование процессов АСУТП (Спирин Н.А.)\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.pdb
+C:\Users\1\Desktop\4 курс\Моделирование процессов АСУТП (Спирин Н.А.)\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\4 курс\Моделирование процессов АСУТП (Спирин Н.А.)\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.csproj.CoreCompileInputs.cache
+C:\Users\1\Desktop\4 курс\Моделирование процессов АСУТП (Спирин Н.А.)\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.AssemblyInfoInputs.cache
+C:\Users\1\Desktop\4 курс\Моделирование процессов АСУТП (Спирин Н.А.)\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.AssemblyInfo.cs
+C:\Users\1\Desktop\4 курс\Моделирование процессов АСУТП (Спирин Н.А.)\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.dll
+C:\Users\1\Desktop\4 курс\Моделирование процессов АСУТП (Спирин Н.А.)\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.pdb
+F:\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.deps.json
+F:\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.runtimeconfig.json
+F:\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.runtimeconfig.dev.json
+F:\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.dll
+F:\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\Model_Of_Shlak.pdb
+F:\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.csprojResolveAssemblyReference.cache
+F:\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.csproj.CoreCompileInputs.cache
+F:\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.AssemblyInfoInputs.cache
+F:\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.AssemblyInfo.cs
+F:\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.dll
+F:\Net.Core\Model_Of_Shlak\Model_Of_Shlak\obj\Debug\netcoreapp2.0\Model_Of_Shlak.pdb

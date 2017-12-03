@@ -1,0 +1,87 @@
+﻿@{
+    ViewData["Title"] = "Contact";
+}
+
+<form method="post" action="/Home/Result/" class="form-horizontal" style="margin-top: 30px">
+    <div class="form-group">
+        <label class="col-xs-4">Вязкость с поправкой на FeO и Т на входе в зону когезии, пуаз</label>
+        <div class="col-xs-4">
+            <input type="text" name="VisVhod" value="@ViewBag.rashet.VisVhod" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-xs-4">Вязкость с поправкой на FeO и Т на выходе из зоны когезии, пуаз</label>
+        <div class="col-xs-4">
+            <input type="text" name="VisExit" value="@(ViewBag.rashet.VisExit)" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-xs-4">Вязкость с поправкой на основность на входе в зону когезии, пуаз</label>
+        <div class="col-xs-4">
+            <input type="text" name="VisOcnVhod" value="@(ViewBag.rashet.VisOcnVhod)" class="form-control" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label style="" class="col-xs-4">Вязкость с поправкой на основность на выходе из зоны когезии, пуаз</label>
+        <div class="col-xs-4">
+            <input type="text" name="VisOsnExit" value="@(ViewBag.rashet.VisOsnExit)" class="form-control" />
+        </div>
+    </div>
+
+
+    <div class="form-group">
+        <label class="col-xs-4">Коэффициент политермы A</label>
+        <div class="col-xs-4">
+            <input type="text" name="KoffA" value="@(ViewBag.rashet.KoffA)" class="form-control" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-xs-4">Коэффициент политермы B</label>
+        <div class="col-xs-4">
+            <input type="text" name="KoffB" value="@(ViewBag.rashet.KoffB)" class="form-control" />
+        </div>
+    </div>
+
+    <div class="form-group">
+        <label class="col-xs-4">вязкость при т-ре входа в зону когезии</label>
+        <div class="col-xs-4">
+            <input type="text" name="Vis1180" value="@(ViewBag.rashet.Vis1180)" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-xs-4">вязкость при т-ре 1200</label>
+        <div class="col-xs-4">
+            <input type="text" name="Vis1200" value="@(ViewBag.rashet.Vis1200)" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-xs-4">вязкость при т-ре 1250</label>
+        <div class="col-xs-4">
+            <input type="text" name="Vis1250" value="@(ViewBag.rashet.Vis1250)" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-xs-4">вязкость при т-ре 1275</label>
+        <div class="col-xs-4">
+            <input type="text" name="Vis1275" value="@(ViewBag.rashet.Vis1275)" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-xs-4">вязкость при т-ре 1300</label>
+        <div class="col-xs-4">
+            <input type="text" name="Vis1300" value="@(ViewBag.rashet.Vis1300)" class="form-control" />
+        </div>
+    </div>
+    <div class="form-group">
+        <label class="col-xs-4">Температура кристаллизации (плавления) шлака при вязкости 25 пуаз, град.С</label>
+        <div class="col-xs-4">
+            <input type="text" name="TempKristal" value="@(ViewBag.rashet.TempKristal)" class="form-control" />
+        </div>
+    </div>
+    @*<div class="form-group">
+        <button type="submit" class="btn btn-primary">Посчитать</button>
+    </div>*@
+
+</form>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<phones>
+  <temp name="temp">
+    <one>1180/1200/1225/1250/1300/1350</one>
+  </temp>
+  <Fe0 name="Fe0">
+    <one>94,8/65,3/40,40/27,0/13,7/8,0</one>
+  </Fe0>
+  <Fe6 name="Fe6">
+    <one>57,8/38,1/24,0/16,0/8,3/5,0</one>
+  </Fe6>
+  <Fe12 name="Fe12">
+    <one>47,6/28,0/16,0/10,0/4,9/3,0</one>
+  </Fe12>
+</phones>
