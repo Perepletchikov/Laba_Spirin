@@ -37,7 +37,7 @@ namespace Model_Of_Shlak.Controllers
             #region расчеты СЛАУ
             string[] str = new string[4];
             int p = 0;
-            XmlReader reader = XmlReader.Create(@"C:\Users\1\Desktop\v2\Net.Core\Model_Of_Shlak\Model_Of_Shlak\bin\Debug\netcoreapp2.0\phones_.xml");
+            XmlReader reader = XmlReader.Create(@"phones_.xml");
             XmlDocument doc = new XmlDocument();
             
             XmlReaderSettings settings = new XmlReaderSettings();
