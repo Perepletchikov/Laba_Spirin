@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETFramework,Version=v4.6.1/win7-x86",
-    "signature": "05eeb5dd5d7fa243b432203ffc978cbd8e4a1038"
+    "signature": "c0b2600b25b2d004fc87c897341a23bdc370b9d5"
   },
   "compilationOptions": {
     "defines": [
@@ -26,6 +26,7 @@
           "Microsoft.AspNetCore": "2.0.1",
           "Microsoft.AspNetCore.Mvc": "2.0.1",
           "Microsoft.AspNetCore.StaticFiles": "2.0.1",
+          "Microsoft.Office.Interop.Excel": "15.0.4795.1000",
           "Microsoft.Solver.Foundation": "3.1.0",
           "Microsoft.CSharp.Reference": "4.0.0.0",
           "mscorlib": "4.0.0.0",
@@ -1624,6 +1625,11 @@
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.Office.Interop.Excel/15.0.4795.1000": {
+        "compile": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        }
+      },
       "Microsoft.Solver.Foundation/3.1.0": {
         "compile": {
           "lib/Microsoft.Solver.Foundation.dll": {}
@@ -1784,6 +1790,7 @@
           "Microsoft.AspNetCore": "2.0.1",
           "Microsoft.AspNetCore.Mvc": "2.0.1",
           "Microsoft.AspNetCore.StaticFiles": "2.0.1",
+          "Microsoft.Office.Interop.Excel": "15.0.4795.1000",
           "Microsoft.Solver.Foundation": "3.1.0",
           "Microsoft.CSharp.Reference": "4.0.0.0",
           "mscorlib": "4.0.0.0",
@@ -2785,6 +2792,11 @@
         }
       },
       "Microsoft.NETCore.Platforms/1.1.0": {},
+      "Microsoft.Office.Interop.Excel/15.0.4795.1000": {
+        "runtime": {
+          "lib/net20/Microsoft.Office.Interop.Excel.dll": {}
+        }
+      },
       "Microsoft.Solver.Foundation/3.1.0": {
         "runtime": {
           "lib/Microsoft.Solver.Foundation.dll": {}
@@ -3572,6 +3584,13 @@
       "sha512": "sha512-kz0PEW2lhqygehI/d6XsPCQzD7ff7gUJaVGPVETX611eadGsA3A877GdSlU0LRVMCTH/+P3o2iDTak+S08V2+A==",
       "path": "microsoft.netcore.platforms/1.1.0",
       "hashPath": "microsoft.netcore.platforms.1.1.0.nupkg.sha512"
+    },
+    "Microsoft.Office.Interop.Excel/15.0.4795.1000": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-DfceS96ustwfL8EOJNNRtpk6b0RylhjNpgeeemuvi9X4GYks2UTeAimjSrdFEfuqRo5ibZ4Sd0gJIeDr9gMa6Q==",
+      "path": "microsoft.office.interop.excel/15.0.4795.1000",
+      "hashPath": "microsoft.office.interop.excel.15.0.4795.1000.nupkg.sha512"
     },
     "Microsoft.Solver.Foundation/3.1.0": {
       "type": "package",
